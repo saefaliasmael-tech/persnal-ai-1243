@@ -1,0 +1,6 @@
+{
+  "name": "Personal AI",
+  "description": "Windows 10 personal local AI coding assistant desktop application with modular service architecture, child process popups, and secure permissions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
